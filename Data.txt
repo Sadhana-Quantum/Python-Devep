@@ -6,4 +6,5 @@ Big Data
 Version Control Systems
 GIT and GITHUB
 Checking for new updates
+Full Stack Web Development
 
