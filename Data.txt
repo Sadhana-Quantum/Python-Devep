@@ -5,3 +5,5 @@ Artificial Intellegence
 Big Data
 Version Control Systems
 GIT and GITHUB
+Checking for new updates
+
