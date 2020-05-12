@@ -3,3 +3,5 @@ Python Programming
 Machine Learning
 Artificial Intellegence
 Big Data
+Version Control Systems
+GIT and GITHUB
